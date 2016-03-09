@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Produce shear maps
 
 Summary -- Some working groups, e.g., the Cluster WG, need shear maps associated with the hydrodynamic
 simulations. The tools exist to do the ray tracing for these shear maps, but once produced, they need to be
